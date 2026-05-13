@@ -1,64 +1,59 @@
 <div align="center">
   <img src="https://media.tenor.com/W-Zzu7gFo5EAAAAC/hunter-x-hunter.gif" width="100%" alt="autumsov banner">
   
-  # 🚀 Welcome to my digital space!
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;PWA+Architect;Gen+Z+Tech+Enthusiast;Building+cool+stuff+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-### 🧑‍💻 About Me
-
-I'm a passionate developer focus on building modern, performant web applications. Lately, I've been diving deep into **PWA (Progressive Web Apps)** and professional **CRUD systems**.
-
-- 🔭 I’m currently working on my [Store App](https://github.com/autumsov/PmrgmPlatform)
-- 🌱 I’m currently learning **Advanced React & Node.js**
-- 💬 Ask me about **PHP, JS, & UI/UX**
-- ⚡ Fun fact: I believe a good UI is 50% code and 50% art.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+in+the+shadows...;Decrypting+the+future...%E2%9C%A8;A+silent+digital+architect.;Crafting+seamless+experiences.;Building+in+silence..." alt="Typing SVG" />
+
+  <p align="center">
+    <i>"Code is not just logic, it's an art form hidden in plain sight."</i>
+  </p>
+</div>
+
+---
+
+### 🌑 The Architect
+
+I am a developer who believes that the best solutions are often the most elegant and unseen. I focus on creating high-performance, minimalist digital infrastructures.
+
+- 🔭 **Current focus**: Architecting [modern systems](https://github.com/autumsov/PmrgmPlatform) from the ground up.
+- 🌱 **Deep diving**: Mastering the art of **Scalable PWAs** and **Asynchronous Logic**.
+- 💬 **Ask me about**: The subtle art of UI/UX and PHP backends.
+- ⚡ **Philosophy**: Real power is building something that feels like magic.
+
+---
+
+### 🛠️ The Arsenal
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Vite-181717?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <br>
+  <img src="https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laragon-007ACC?style=for-the-badge&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-181717?style=for-the-badge&logo=laragon&logoColor=007ACC" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Vital Signs
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=autumsov&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117" height="170" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autumsov&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" height="170" alt="Langs Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=autumsov&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF" height="170" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autumsov&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" height="170" alt="Langs Card" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autumsov&theme=nightowl&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autumsov&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
 </div>
 
 ---
-
-### 📬 Connect with me
-
-<div align="center">
-  <a href="mailto:owanoke2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/autumsov">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=autumsov&label=Profile%20views&color=purple&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=autumsov&label=System%20Accesses&color=181717&style=flat-square" alt="Views" />
 </p>
