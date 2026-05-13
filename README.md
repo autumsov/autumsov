@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="autumsov banner">
+  <img src="https://media.tenor.com/W-Zzu7gFo5EAAAAC/hunter-x-hunter.gif" width="100%" alt="autumsov banner">
   
   # 🚀 Welcome to my digital space!
   
